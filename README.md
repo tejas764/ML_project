@@ -24,10 +24,8 @@ dashboard.
 
 ## 🌐 Live Demo
 
-Add your deployed Streamlit URL here when available:
-
 ``` text
-https
+[https](https://supreme-goldfish-v6vgj5gxqp74hxv76-8502.app.github.dev/)
 ```
 
 ------------------------------------------------------------------------
