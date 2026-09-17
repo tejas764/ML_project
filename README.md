@@ -2,8 +2,13 @@
 
 ## Machine Learning-Based Network Intrusion Detection System
 
+```{=html}
+<p align="center">
 ```
-
+`<b>`{=html}Network Traffic Analysis • Machine Learning • Intrusion
+Detection • Security Analytics`</b>`{=html}
+```{=html}
+</p>
 ```
 NetGuard is an end-to-end academic machine-learning application for
 **Network Intrusion Detection (NIDS)**. The system analyzes labelled
@@ -637,7 +642,7 @@ NetGuard/
 ├── Datasets/
 │   └── CIC-IDS2017 CSV files
 │
-└── screenshots/
+└── Screenshot/
     ├── dashboard.png
     ├── dataset-overview.png
     ├── model-performance.png
@@ -657,33 +662,23 @@ Recommended screenshots for the GitHub repository:
 
 ### Dashboard
 
-``` markdown
-![NetGuard Dashboard](screenshots/dashboard.png)
-```
+![NetGuard Dashboard](Screenshot/dashboard.png)
 
 ### Model Performance
 
-``` markdown
-![Model Performance](screenshots/modelperformance.png)
-```
+![Model Performance](Screenshot/modelperformance.png)
 
 ### Advanced Analytics
 
-``` markdown
-![Advanced Analytics](screenshots/Advanceanalytics.png)
-```
+![Advanced Analytics](Screenshot/Advanceanalytics.png)
 
 ### Live Detection
 
-``` markdown
-![Live Detection](screenshots/liveDetection.png)
-```
+![Live Detection](Screenshot/liveDetection.png)
 
 ### Multi-Model Consensus
 
-``` markdown
-![Multi-Model Consensus](screenshots/consensus.png)
-```
+![Multi-Model Consensus](Screenshot/consensus.png)
 
 ------------------------------------------------------------------------
 
