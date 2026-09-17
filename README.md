@@ -2,7 +2,7 @@
 
 ## Machine Learning-Based Network Intrusion Detection System
 
-```{=html}
+```
 <p align="center">
 ```
 `<b>`{=html}Network Traffic Analysis • Machine Learning • Intrusion
