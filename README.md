@@ -3,12 +3,7 @@
 ## Machine Learning-Based Network Intrusion Detection System
 
 ```
-<p align="center">
-```
-`<b>`{=html}Network Traffic Analysis • Machine Learning • Intrusion
-Detection • Security Analytics`</b>`{=html}
-```{=html}
-</p>
+
 ```
 NetGuard is an end-to-end academic machine-learning application for
 **Network Intrusion Detection (NIDS)**. The system analyzes labelled
