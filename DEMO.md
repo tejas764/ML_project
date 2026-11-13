@@ -1,4 +1,32 @@
-# Demonstration guide
+<p align="center">
+  <a href="README.md"><strong>OVERVIEW</strong></a> &nbsp; · &nbsp;
+  <a href="DEMO.md"><strong>DEMO & SCREENSHOTS</strong></a> &nbsp; · &nbsp;
+  <a href="DEMO.md#demo-setup"><strong>SETUP & DEPLOYMENT</strong></a>
+</p>
+
+<div align="center">
+
+# Demo Studio
+
+**ML_project**
+
+Walk through the experience. Explore the visuals. Prepare your demo.
+
+</div>
+
+---
+
+## Visual preview
+
+![NetGuard dashboard](Screenshot/dashboard.png)
+
+| Model performance | Analytics |
+| :---: | :---: |
+| ![Model performance](Screenshot/modelperformance.png) | ![Analytics](Screenshot/Advanceanalytics.png) |
+
+*Existing project screenshots; not a fresh runtime verification.*
+
+---
 
 ## Five-minute walkthrough
 
@@ -8,6 +36,8 @@
 4. Show Model Performance and Advanced Analytics.
 5. Change feature sliders in Live Detection and select Analyze Traffic.
 6. Export Results CSV. Explain that these artificial records demonstrate the UI, not detection accuracy.
+
+<a id="demo-setup"></a>
 
 ## Deployment
 
